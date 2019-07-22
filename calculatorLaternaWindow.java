@@ -9,12 +9,12 @@ import java.awt.Dimension;
 import javax.swing.JOptionPane;
 import java.awt.Toolkit;
 
-public class Ramka_01 extends javax.swing.JFrame {
+public class calculatorLaternaWindow extends javax.swing.JFrame {
 
     /**
-     * Creates new form Ramka_01
+     * Creates new form calculatorLaternaWindow
      */
-    public Ramka_01() {
+    public calculatorLaternaWindow() {
         initComponents();
     }
 
